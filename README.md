@@ -1,6 +1,6 @@
 <h1 align="center">She came, she saw, she coded.</h1>
 <h2 align="center">Hola, I'm Cydnie👩🏽‍💻</h2>
-<h3 align="center">A passionate full-stack developer from southern California🌴🌊☀️</h3>
+<h3 align="center">An eccentric full-stack developer from southern California🌴🌊☀️</h3>
 
 - 🌱 I’m currently solidifying my knowledge in **Ruby and Javascript.**
 
