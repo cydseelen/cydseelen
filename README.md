@@ -1,4 +1,5 @@
-<h1 align="center">Hi, I'm Cydnie</h1>
+<h1 align="center">She came, she saw, she coded.</h1>
+<h2>Hi, I'm Cydnie👩🏽‍💻</h2>
 <h3 align="center">A passionate frontend developer from southern California🌴🌊☀️</h3>
 
 - 🌱 I’m currently solidifying my knowledge in **Ruby and Javascript.**
