@@ -1,10 +1,10 @@
 <h1 align="center">She came, she saw, she coded.</h1>
-<h2 align="center">Hi, I'm Cydnie👩🏽‍💻</h2>
-<h3 align="center">A passionate frontend developer from southern California🌴🌊☀️</h3>
+<h2 align="center">Hola, I'm Cydnie👩🏽‍💻</h2>
+<h3 align="center">A passionate full-stack developer from southern California🌴🌊☀️</h3>
 
 - 🌱 I’m currently solidifying my knowledge in **Ruby and Javascript.**
 
-- ⚡ Fun fact **I love Kpop🎶**
+- ⚡ Fun fact about me: **I love Kpop🎶**
 
 
 <h3 align="center">Languages and Tools:</h3>
