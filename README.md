@@ -3,7 +3,7 @@
 <h3 align="center">A full-stack developer from southern California🌴🌊☀️</h3>
 
 - 🌱 I’m currently solidifying my knowledge in **Ruby and Javascript.**
-
+- 🔜 Up next: React⚛️
 - ⚡ Fun fact about me: **I love Kpop🎶**
 
 
