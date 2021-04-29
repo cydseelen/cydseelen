@@ -3,7 +3,7 @@
 <h3 align="center">A full-stack developer, originally from southern California🌴🌊☀️, but now based in Berlin.</h3>
 
 - 🎓 I recently graduated from Le Wagon Berlin's Web Development bootcamp.
-- 🌱 I’m currently solidifying my knowledge in **Ruby and Javascript.**
+- 🌱 I’m currently solidifying my knowledge in **Ruby and JavaScript.**
 - 🔜 Up next: React ⚛️
 - ⚡ Fun fact about me: **I love Kpop🎶**
 
