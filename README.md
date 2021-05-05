@@ -1,11 +1,11 @@
 <h1 align="center">She came, she saw, she coded.</h1>
 <h2 align="center">Hola, I'm Cydnie👩🏽‍💻</h2>
-<h3 align="center">A full-stack developer, originally from southern California🌴🌊☀️, but now based in Berlin.</h3>
+<h3 align="center">A full-stack developer, originally from southern California🌴🌊☀️, now based in Berlin.</h3>
 
 - 🎓 I recently graduated from Le Wagon Berlin's Web Development bootcamp.
-- 🌱 I’m currently solidifying my knowledge in **Ruby and JavaScript.**
-- 🔜 Up next: React ⚛️
-- ⚡ Fun fact about me: **I love Kpop🎶**
+- 🌱 I’m currently solidifying my knowledge in **Ruby** and **JavaScript**.
+- 🔜 Up next: **React** & **Redux** ⚛️
+- ⚡ Fun fact about me: I love **Kpop**🎶
 
 
 <h3 align="center">Languages and Tools:</h3>
