@@ -1,10 +1,8 @@
-<h1 align="center">She came, she saw, she coded.</h1>
 <h2 align="center">Hola, I'm Cydnie👩🏽‍💻</h2>
-<h3 align="center">A full-stack developer, originally from southern California🌴🌊☀️, now based in Berlin.</h3>
+<h3 align="center">A frontend developer from southern California and based in Berlin.</h3>
 
 - 🎓 I recently graduated from Le Wagon Berlin's Web Development bootcamp.
-- 🌱 I’m currently solidifying my knowledge in **Ruby** and **JavaScript**.
-- 🔜 Up next: **React** & **Redux** ⚛️
+- 📚 I’m currently studying **React** & **Redux** ⚛️
 - ⚡ Fun fact about me: I love **Kpop**🎶
 
 
@@ -30,5 +28,3 @@ alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_bl
 src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>  <a href="https://www.postgresql.org" target="_blank"> <img
 src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
 alt="postgresql" width="40" height="40"/> </a> </p>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=cydseelen&show_icons=true&locale=en&layout=compact" alt="cydseelen" /></p>
