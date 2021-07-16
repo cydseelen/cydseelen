@@ -1,8 +1,8 @@
 <h2 align="center">Hola, I'm Cydnie👩🏽‍💻</h2>
-<h3 align="center">A frontend developer from southern California and based in Berlin.</h3>
+<h3 align="center">A fullstack developer from southern California, based in Berlin.</h3>
 
 - 🎓 I recently graduated from Le Wagon Berlin's Web Development bootcamp.
-- 📚 I’m currently studying **React** & **Redux** ⚛️
+- 📚 I’m currently studying **JavaScript** & **React**⚛️
 - ⚡ Fun fact about me: I love **Kpop**🎶
 
 
